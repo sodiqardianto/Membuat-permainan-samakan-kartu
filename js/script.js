@@ -23,7 +23,7 @@ function persiapkanKartu(angkaAcak) {
     angkaAcak.forEach(function(i) {
         str += '<div class="kartu" nilai="'+ i +'">' +
         '<div class="belakang">'+ i +'</div>' +
-        '<div class="depan"><img src="../logo.png" alt="""></div>' +
+        '<div class="depan"><img src="./image/logo.png" alt="""></div>' +
     '</div>';
     });
 
