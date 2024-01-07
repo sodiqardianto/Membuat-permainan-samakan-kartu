@@ -19,3 +19,9 @@ Open folder the project clone, then double click index.html.
 
 HTML, Javascript, Jquery
 
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/sodiqardianto/samakan-kartu/master/image/screenshots/img-1.jpeg)
+
+![App Screenshot](https://raw.githubusercontent.com/sodiqardianto/samakan-kartu/master/image/screenshots/img-2.jpeg)
